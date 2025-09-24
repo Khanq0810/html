@@ -1,0 +1,12 @@
+.but {
+    padding:7px 14px;
+    background-color:black;
+    color:white;
+    font-size:19px;
+    border-radius:7px;
+    transition: background-color 0.3s ease;
+    border:none
+}
+.but:hover {
+    background-color:#333
+}
